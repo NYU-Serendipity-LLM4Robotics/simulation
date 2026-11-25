@@ -1,0 +1,165 @@
+{
+  "format": "serendipity-scene-v1",
+  "blank": true,
+  "poses": {
+    "go2/base_link": [
+      -1.25,
+      -0.85,
+      0.29,
+      0
+    ],
+    "g1/pelvis": [
+      -0.65,
+      0.45,
+      0.79,
+      0
+    ]
+  },
+  "objects": [
+    {
+      "id": "asset_61e9d712edf0",
+      "kind": "box",
+      "label": "台阶 1",
+      "size": [
+        0.2,
+        1.5,
+        0.1
+      ],
+      "position": [
+        0.07,
+        0.0,
+        0.05
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_3420886b60f3",
+      "kind": "box",
+      "label": "台阶 2",
+      "size": [
+        0.2,
+        1.5,
+        0.245
+      ],
+      "position": [
+        0.27,
+        0.0,
+        0.1225
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_e2cddb4c11a2",
+      "kind": "box",
+      "label": "台阶 3",
+      "size": [
+        0.2,
+        1.5,
+        0.4
+      ],
+      "position": [
+        0.47,
+        0.0,
+        0.2
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_7a05b3557a39",
+      "kind": "box",
+      "label": "台阶 4",
+      "size": [
+        0.2,
+        1.5,
+        0.55
+      ],
+      "position": [
+        0.67,
+        0.0,
+        0.275
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_a42d1dcf3830",
+      "kind": "box",
+      "label": "台阶 5",
+      "size": [
+        0.2,
+        1.5,
+        0.7000000000000001
+      ],
+      "position": [
+        0.87,
+        0.0,
+        0.35000000000000003
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_edc3164cd8ac",
+      "kind": "box",
+      "label": "台阶 6",
+      "size": [
+        0.2,
+        1.5,
+        0.85
+      ],
+      "position": [
+        1.0699999999999998,
+        0.0,
+        0.425
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_f5408ff9839c",
+      "kind": "box",
+      "label": "台阶 7",
+      "size": [
+        0.2,
+        1.5,
+        1.0
+      ],
+      "position": [
+        1.27,
+        0.0,
+        0.5
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_9f3e8c414326",
+      "kind": "box",
+      "label": "台阶 8",
+      "size": [
+        0.2,
+        1.5,
+        1.15
+      ],
+      "position": [
+        1.4700000000000002,
+        0.0,
+        0.575
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    }
+  ],
+  "source_layout": "rss2025/mujoco_playground/_src/locomotion/go1/xmls/scene_mjx_feetonly_stairs.xml"
+}

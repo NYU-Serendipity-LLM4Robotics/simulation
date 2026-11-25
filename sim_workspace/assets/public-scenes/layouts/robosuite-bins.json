@@ -1,0 +1,291 @@
+{
+  "format": "serendipity-scene-v1",
+  "blank": true,
+  "poses": {
+    "go2/base_link": [
+      -1.25,
+      -0.85,
+      0.29,
+      0
+    ],
+    "g1/pelvis": [
+      -0.65,
+      0.45,
+      0.79,
+      0
+    ]
+  },
+  "objects": [
+    {
+      "id": "asset_20b6110c6376",
+      "kind": "box",
+      "label": "bin1 1",
+      "size": [
+        0.4,
+        0.5,
+        0.04
+      ],
+      "position": [
+        0.65,
+        -0.25,
+        0.8
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_de09c638ef80",
+      "kind": "box",
+      "label": "bin1 2",
+      "size": [
+        0.42,
+        0.02,
+        0.1
+      ],
+      "position": [
+        0.65,
+        0.0,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_c68062127e1c",
+      "kind": "box",
+      "label": "bin1 3",
+      "size": [
+        0.42,
+        0.02,
+        0.1
+      ],
+      "position": [
+        0.65,
+        -0.5,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_bb1d578f7872",
+      "kind": "box",
+      "label": "bin1 4",
+      "size": [
+        0.02,
+        0.5,
+        0.1
+      ],
+      "position": [
+        0.8500000000000001,
+        -0.25,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_524e6f6bbf9d",
+      "kind": "box",
+      "label": "bin1 5",
+      "size": [
+        0.02,
+        0.5,
+        0.1
+      ],
+      "position": [
+        0.45,
+        -0.25,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_fe540a891d28",
+      "kind": "box",
+      "label": "bin1 支撑",
+      "size": [
+        0.34,
+        0.44,
+        0.76
+      ],
+      "position": [
+        0.65,
+        -0.25,
+        0.38
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_b1cc4451ec7d",
+      "kind": "box",
+      "label": "bin2 1",
+      "size": [
+        0.4,
+        0.5,
+        0.04
+      ],
+      "position": [
+        0.65,
+        0.28,
+        0.8
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_0eeaec410872",
+      "kind": "box",
+      "label": "bin2 2",
+      "size": [
+        0.42,
+        0.02,
+        0.1
+      ],
+      "position": [
+        0.65,
+        0.53,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_c3c8ec9c79a4",
+      "kind": "box",
+      "label": "bin2 3",
+      "size": [
+        0.4,
+        0.02,
+        0.1
+      ],
+      "position": [
+        0.65,
+        0.28,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_bc35e00a749b",
+      "kind": "box",
+      "label": "bin2 4",
+      "size": [
+        0.42,
+        0.02,
+        0.1
+      ],
+      "position": [
+        0.65,
+        0.030000000000000027,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_0acf757ac069",
+      "kind": "box",
+      "label": "bin2 5",
+      "size": [
+        0.02,
+        0.5,
+        0.1
+      ],
+      "position": [
+        0.8500000000000001,
+        0.28,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_f5773968bedb",
+      "kind": "box",
+      "label": "bin2 6",
+      "size": [
+        0.02,
+        0.5,
+        0.1
+      ],
+      "position": [
+        0.65,
+        0.28,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_94cde04dcaef",
+      "kind": "box",
+      "label": "bin2 7",
+      "size": [
+        0.02,
+        0.5,
+        0.1
+      ],
+      "position": [
+        0.45,
+        0.28,
+        0.8500000000000001
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_36ed2703d28f",
+      "kind": "box",
+      "label": "bin2 支撑",
+      "size": [
+        0.34,
+        0.44,
+        0.76
+      ],
+      "position": [
+        0.65,
+        0.28,
+        0.38
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": true
+    },
+    {
+      "id": "asset_de411887f54b",
+      "kind": "box",
+      "label": "抓取块",
+      "size": [
+        0.04,
+        0.04,
+        0.04
+      ],
+      "position": [
+        0.53,
+        -0.05,
+        0.845
+      ],
+      "mass": 1.0,
+      "yaw": 0,
+      "fixed": false
+    }
+  ],
+  "source_layout": "robosuite/models/assets/arenas/bins_arena.xml"
+}

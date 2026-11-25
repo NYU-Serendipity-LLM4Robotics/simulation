@@ -1,0 +1,129 @@
+{
+  "format": "serendipity-scene-v1",
+  "blank": true,
+  "poses": {
+    "go2/base_link": [
+      -0.55,
+      -0.66,
+      0.29,
+      0
+    ],
+    "g1/pelvis": [
+      0.48,
+      -0.18,
+      0.79,
+      0
+    ]
+  },
+  "objects": [
+    {
+      "id": "asset_a59a4147f9a8",
+      "kind": "box",
+      "label": "Kitchen wall 1",
+      "size": [
+        3.215325,
+        0.045,
+        2.7892506338096648
+      ],
+      "position": [
+        -1.6125,
+        -0.28000000000000047,
+        1.3946253169048324
+      ],
+      "mass": 1.0,
+      "yaw": 90.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_7d24e06cf250",
+      "kind": "box",
+      "label": "Kitchen wall 2",
+      "size": [
+        1.1590125,
+        0.045,
+        2.7892506338096648
+      ],
+      "position": [
+        -1.03125,
+        1.3324999999999996,
+        1.3946253169048324
+      ],
+      "mass": 1.0,
+      "yaw": 0.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_25a40ebd1f41",
+      "kind": "box",
+      "label": "Kitchen wall 2",
+      "size": [
+        1.1590125,
+        0.045,
+        2.7892506338096648
+      ],
+      "position": [
+        1.0312500000000002,
+        1.3324999999999996,
+        1.3946253169048324
+      ],
+      "mass": 1.0,
+      "yaw": 0.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_18d28b35ad85",
+      "kind": "box",
+      "label": "Kitchen wall 4",
+      "size": [
+        1.1590125,
+        0.045,
+        2.7892506338096648
+      ],
+      "position": [
+        1.6125,
+        0.7512499999999996,
+        1.3946253169048324
+      ],
+      "mass": 1.0,
+      "yaw": -90.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_c66052ea9098",
+      "kind": "box",
+      "label": "Kitchen wall 4",
+      "size": [
+        1.1590125,
+        0.045,
+        2.7892506338096648
+      ],
+      "position": [
+        1.6125,
+        -1.3112500000000007,
+        1.3946253169048324
+      ],
+      "mass": 1.0,
+      "yaw": -90.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_4c2be191031c",
+      "kind": "box",
+      "label": "Kitchen wall 6",
+      "size": [
+        3.215325,
+        0.045,
+        2.7892506338096648
+      ],
+      "position": [
+        0.0,
+        -1.8925000000000005,
+        1.3946253169048324
+      ],
+      "mass": 1.0,
+      "yaw": 180.0,
+      "fixed": true
+    }
+  ],
+  "source_layout": "test.jsonl.gz row=13 room=room|2 roomType=Kitchen"
+}

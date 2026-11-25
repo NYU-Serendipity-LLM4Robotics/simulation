@@ -1,0 +1,129 @@
+{
+  "format": "serendipity-scene-v1",
+  "blank": true,
+  "poses": {
+    "go2/base_link": [
+      -0.55,
+      -0.66,
+      0.29,
+      0
+    ],
+    "g1/pelvis": [
+      0.48,
+      -0.18,
+      0.79,
+      0
+    ]
+  },
+  "objects": [
+    {
+      "id": "asset_497decd16e92",
+      "kind": "box",
+      "label": "LivingRoom wall 1",
+      "size": [
+        3.261187000000001,
+        0.045,
+        2.888641503432955
+      ],
+      "position": [
+        -1.6355,
+        -0.28000000000000025,
+        1.4443207517164776
+      ],
+      "mass": 1.0,
+      "yaw": 90.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_ec76f6ea6c31",
+      "kind": "box",
+      "label": "LivingRoom wall 2",
+      "size": [
+        3.261187,
+        0.045,
+        2.888641503432955
+      ],
+      "position": [
+        0.0,
+        1.3555000000000001,
+        1.4443207517164776
+      ],
+      "mass": 1.0,
+      "yaw": 0.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_c2e6a4ed8bbc",
+      "kind": "box",
+      "label": "LivingRoom wall 3",
+      "size": [
+        1.1819435000000003,
+        0.045,
+        2.888641503432955
+      ],
+      "position": [
+        1.6355,
+        0.76275,
+        1.4443207517164776
+      ],
+      "mass": 1.0,
+      "yaw": -90.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_49b195e971ec",
+      "kind": "box",
+      "label": "LivingRoom wall 3",
+      "size": [
+        1.1819435000000003,
+        0.045,
+        2.888641503432955
+      ],
+      "position": [
+        1.6355,
+        -1.32275,
+        1.4443207517164776
+      ],
+      "mass": 1.0,
+      "yaw": -90.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_a555af4dd2ae",
+      "kind": "box",
+      "label": "LivingRoom wall 5",
+      "size": [
+        1.1819435,
+        0.045,
+        2.888641503432955
+      ],
+      "position": [
+        1.0427499999999998,
+        -1.9155000000000006,
+        1.4443207517164776
+      ],
+      "mass": 1.0,
+      "yaw": 180.0,
+      "fixed": true
+    },
+    {
+      "id": "asset_960afd8e884c",
+      "kind": "box",
+      "label": "LivingRoom wall 5",
+      "size": [
+        1.1819435,
+        0.045,
+        2.888641503432955
+      ],
+      "position": [
+        -1.0427499999999998,
+        -1.9155000000000006,
+        1.4443207517164776
+      ],
+      "mass": 1.0,
+      "yaw": 180.0,
+      "fixed": true
+    }
+  ],
+  "source_layout": "test.jsonl.gz row=20 room=room|7 roomType=LivingRoom"
+}

@@ -1,0 +1,31 @@
+{
+  "maniskill-g1-apple": {
+    "description": "ManiSkill native G1 apple-to-bowl random-policy smoke",
+    "command": [
+      "{python}",
+      "{workspace}/upstream.py",
+      "maniskill",
+      "UnitreeG1PlaceAppleInBowl-v1"
+    ],
+    "python": "{workspace}/.envs/maniskill/bin/python"
+  },
+  "maniskill-g1-transport": {
+    "description": "ManiSkill native G1 box transport random-policy smoke",
+    "command": [
+      "{python}",
+      "{workspace}/upstream.py",
+      "maniskill",
+      "UnitreeG1TransportBox-v1"
+    ],
+    "python": "{workspace}/.envs/maniskill/bin/python"
+  },
+  "libero-spatial": {
+    "description": "Native LIBERO Spatial language-task catalog",
+    "command": [
+      "{python}",
+      "{workspace}/upstream.py",
+      "libero",
+      "libero_spatial"
+    ]
+  }
+}

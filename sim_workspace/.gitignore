@@ -1,0 +1,6 @@
+/.envs/
+/runs/
+__pycache__/
+/MUJOCO_LOG.TXT
+
+/assets/public-scenes/native/
